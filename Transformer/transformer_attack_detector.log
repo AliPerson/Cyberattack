@@ -1,0 +1,16 @@
+2025-05-09 09:25:38,099 - INFO - Script started.
+2025-05-09 09:25:38,099 - INFO - Loading training data...
+2025-05-09 09:25:38,774 - INFO - Training Transformer model...
+2025-05-09 09:26:02,378 - INFO - Evaluating Transformer model...
+2025-05-09 09:26:03,505 - INFO - Test Accuracy: 0.9444808805497733
+2025-05-09 09:26:03,505 - INFO - Classification Report:
+2025-05-09 09:26:03,516 - INFO -               precision    recall  f1-score   support
+
+           0       0.95      0.88      0.91     11169
+           1       0.94      0.98      0.96     23900
+
+    accuracy                           0.94     35069
+   macro avg       0.94      0.93      0.93     35069
+weighted avg       0.94      0.94      0.94     35069
+
+2025-05-09 09:26:03,517 - INFO - Script execution completed.
