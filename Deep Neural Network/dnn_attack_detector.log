@@ -1,0 +1,78 @@
+Training deep neural network...
+Epoch 1/20
+4384/4384 - 8s - 2ms/step - accuracy: 0.9179 - loss: 0.1838 - val_accuracy: 0.9971 - val_loss: 0.0290
+Epoch 2/20
+4384/4384 - 6s - 1ms/step - accuracy: 0.9238 - loss: 0.1577 - val_accuracy: 0.9896 - val_loss: 0.0348
+Epoch 3/20
+4384/4384 - 6s - 1ms/step - accuracy: 0.9254 - loss: 0.1508 - val_accuracy: 0.9911 - val_loss: 0.0317
+Epoch 4/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9274 - loss: 0.1481 - val_accuracy: 0.9944 - val_loss: 0.0245
+Epoch 5/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9269 - loss: 0.1465 - val_accuracy: 0.9901 - val_loss: 0.0307
+Epoch 6/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9279 - loss: 0.1454 - val_accuracy: 0.9905 - val_loss: 0.0353
+Epoch 7/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9287 - loss: 0.1439 - val_accuracy: 0.9912 - val_loss: 0.0301
+Epoch 8/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9295 - loss: 0.1436 - val_accuracy: 0.9904 - val_loss: 0.0303
+Epoch 9/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9304 - loss: 0.1419 - val_accuracy: 0.9869 - val_loss: 0.0301
+Epoch 10/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9305 - loss: 0.1407 - val_accuracy: 0.9875 - val_loss: 0.0315
+Epoch 11/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9307 - loss: 0.1396 - val_accuracy: 0.9908 - val_loss: 0.0279
+Epoch 12/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9314 - loss: 0.1397 - val_accuracy: 0.9930 - val_loss: 0.0272
+Epoch 13/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9318 - loss: 0.1391 - val_accuracy: 0.9862 - val_loss: 0.0321
+Epoch 14/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9322 - loss: 0.1383 - val_accuracy: 0.9882 - val_loss: 0.0308
+Epoch 15/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9322 - loss: 0.1378 - val_accuracy: 0.9883 - val_loss: 0.0337
+Epoch 16/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9327 - loss: 0.1374 - val_accuracy: 0.9892 - val_loss: 0.0315
+Epoch 17/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9325 - loss: 0.1368 - val_accuracy: 0.9899 - val_loss: 0.0305
+Epoch 18/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9328 - loss: 0.1367 - val_accuracy: 0.9917 - val_loss: 0.0277
+Epoch 19/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9331 - loss: 0.1357 - val_accuracy: 0.9866 - val_loss: 0.0317
+Epoch 20/20
+4384/4384 - 5s - 1ms/step - accuracy: 0.9324 - loss: 0.1363 - val_accuracy: 0.9834 - val_loss: 0.0319
+Training complete. Model, scaler, and encoders saved.
+
+[1m   1/2573[0m [37m====================[0m [1m2:08[0m 50ms/step
+[1m  86/2573[0m [37m====================[0m [1m1s[0m 595us/step 
+[1m 212/2573[0m [32m=[0m[37m===================[0m [1m1s[0m 531us/step
+[1m 330/2573[0m [32m==[0m[37m==================[0m [1m1s[0m 505us/step
+[1m 465/2573[0m [32m===[0m[37m=================[0m [1m1s[0m 491us/step
+[1m 580/2573[0m [32m====[0m[37m================[0m [1m0s[0m 488us/step
+[1m 715/2573[0m [32m=====[0m[37m===============[0m [1m0s[0m 484us/step
+[1m 841/2573[0m [32m======[0m[37m==============[0m [1m0s[0m 486us/step
+[1m 975/2573[0m [32m=======[0m[37m=============[0m [1m0s[0m 484us/step
+[1m1112/2573[0m [32m========[0m[37m============[0m [1m0s[0m 482us/step
+[1m1210/2573[0m [32m=========[0m[37m===========[0m [1m0s[0m 485us/step
+[1m1316/2573[0m [32m==========[0m[37m==========[0m [1m0s[0m 484us/step
+[1m1419/2573[0m [32m===========[0m[37m=========[0m [1m0s[0m 485us/step
+[1m1549/2573[0m [32m============[0m[37m========[0m [1m0s[0m 484us/step
+[1m1655/2573[0m [32m============[0m[37m========[0m [1m0s[0m 483us/step
+[1m1775/2573[0m [32m=============[0m[37m=======[0m [1m0s[0m 484us/step
+[1m1897/2573[0m [32m==============[0m[37m======[0m [1m0s[0m 483us/step
+[1m2027/2573[0m [32m===============[0m[37m=====[0m [1m0s[0m 483us/step
+[1m2130/2573[0m [32m================[0m[37m====[0m [1m0s[0m 483us/step
+[1m2263/2573[0m [32m=================[0m[37m===[0m [1m0s[0m 482us/step
+[1m2395/2573[0m [32m==================[0m[37m==[0m [1m0s[0m 482us/step
+[1m2522/2573[0m [32m===================[0m[37m=[0m [1m0s[0m 482us/step
+[1m2573/2573[0m [32m====================[0m[37m[0m [1m0s[0m 492us/step
+[1m2573/2573[0m [32m====================[0m[37m[0m [1m1s[0m 500us/step
+Test Accuracy: 0.881552737696157
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.79      0.86     37000
+           1       0.85      0.96      0.90     45332
+
+    accuracy                           0.88     82332
+   macro avg       0.89      0.87      0.88     82332
+weighted avg       0.89      0.88      0.88     82332
+
